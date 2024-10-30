@@ -22,6 +22,6 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-The notebook uses opencv to capture the frame from the device and have a more realistic VQA.
+The notebook uses opencv to capture the frame from the device and have a more realistic VQA.//
 Prepare your dataset and place it in the data/ directory.
 Run the Jupyter notebooks provided in the repository to train and test the VQA model.
